@@ -8,7 +8,8 @@ h1 , nav {
   text-align: center;
 }
 
-section#featured-property , section#p {
+section#featured-property  {
+ 
   text-align: center;
 
 }
@@ -18,4 +19,9 @@ background-color: darksalmon;
 text-align: center;
 border-block-start: darksalmon;
 
+}
+
+section#p {
+
+  margin: 0 auto;
 }
