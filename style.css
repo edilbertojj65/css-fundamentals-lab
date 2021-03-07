@@ -3,3 +3,19 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 , nav {
+  text-align: center;
+}
+
+section#featured-property , section#p {
+  text-align: center;
+
+}
+
+section#details{
+background-color: darksalmon;
+text-align: center;
+border-block-start: darksalmon;
+
+}
